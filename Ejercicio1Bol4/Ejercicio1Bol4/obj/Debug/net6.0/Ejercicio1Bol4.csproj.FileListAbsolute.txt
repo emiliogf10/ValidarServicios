@@ -1,0 +1,30 @@
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios T2\Ejercicio1Bol4\Ejercicio1Bol4\bin\Debug\net6.0\Ejercicio1Bol4.exe
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios T2\Ejercicio1Bol4\Ejercicio1Bol4\bin\Debug\net6.0\Ejercicio1Bol4.deps.json
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios T2\Ejercicio1Bol4\Ejercicio1Bol4\bin\Debug\net6.0\Ejercicio1Bol4.runtimeconfig.json
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios T2\Ejercicio1Bol4\Ejercicio1Bol4\bin\Debug\net6.0\Ejercicio1Bol4.dll
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios T2\Ejercicio1Bol4\Ejercicio1Bol4\bin\Debug\net6.0\Ejercicio1Bol4.pdb
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios T2\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\Ejercicio1Bol4.csproj.AssemblyReference.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios T2\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\Ejercicio1Bol4.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios T2\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\Ejercicio1Bol4.AssemblyInfoInputs.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios T2\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\Ejercicio1Bol4.AssemblyInfo.cs
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios T2\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\Ejercicio1Bol4.csproj.CoreCompileInputs.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios T2\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\Ejercicio1Bol4.dll
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios T2\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\refint\Ejercicio1Bol4.dll
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios T2\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\Ejercicio1Bol4.pdb
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios T2\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\Ejercicio1Bol4.genruntimeconfig.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios T2\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\ref\Ejercicio1Bol4.dll
+E:\SEGUNDO DAM\EVALUACION 1\Servicios y Procesos\EVALUACION 1\Ejercicios\T1\Ejercicio1Bol4\Ejercicio1Bol4\bin\Debug\net6.0\Ejercicio1Bol4.exe
+E:\SEGUNDO DAM\EVALUACION 1\Servicios y Procesos\EVALUACION 1\Ejercicios\T1\Ejercicio1Bol4\Ejercicio1Bol4\bin\Debug\net6.0\Ejercicio1Bol4.deps.json
+E:\SEGUNDO DAM\EVALUACION 1\Servicios y Procesos\EVALUACION 1\Ejercicios\T1\Ejercicio1Bol4\Ejercicio1Bol4\bin\Debug\net6.0\Ejercicio1Bol4.runtimeconfig.json
+E:\SEGUNDO DAM\EVALUACION 1\Servicios y Procesos\EVALUACION 1\Ejercicios\T1\Ejercicio1Bol4\Ejercicio1Bol4\bin\Debug\net6.0\Ejercicio1Bol4.dll
+E:\SEGUNDO DAM\EVALUACION 1\Servicios y Procesos\EVALUACION 1\Ejercicios\T1\Ejercicio1Bol4\Ejercicio1Bol4\bin\Debug\net6.0\Ejercicio1Bol4.pdb
+E:\SEGUNDO DAM\EVALUACION 1\Servicios y Procesos\EVALUACION 1\Ejercicios\T1\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\Ejercicio1Bol4.csproj.AssemblyReference.cache
+E:\SEGUNDO DAM\EVALUACION 1\Servicios y Procesos\EVALUACION 1\Ejercicios\T1\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\Ejercicio1Bol4.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEGUNDO DAM\EVALUACION 1\Servicios y Procesos\EVALUACION 1\Ejercicios\T1\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\Ejercicio1Bol4.AssemblyInfoInputs.cache
+E:\SEGUNDO DAM\EVALUACION 1\Servicios y Procesos\EVALUACION 1\Ejercicios\T1\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\Ejercicio1Bol4.AssemblyInfo.cs
+E:\SEGUNDO DAM\EVALUACION 1\Servicios y Procesos\EVALUACION 1\Ejercicios\T1\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\Ejercicio1Bol4.csproj.CoreCompileInputs.cache
+E:\SEGUNDO DAM\EVALUACION 1\Servicios y Procesos\EVALUACION 1\Ejercicios\T1\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\Ejercicio1Bol4.dll
+E:\SEGUNDO DAM\EVALUACION 1\Servicios y Procesos\EVALUACION 1\Ejercicios\T1\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\refint\Ejercicio1Bol4.dll
+E:\SEGUNDO DAM\EVALUACION 1\Servicios y Procesos\EVALUACION 1\Ejercicios\T1\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\Ejercicio1Bol4.pdb
+E:\SEGUNDO DAM\EVALUACION 1\Servicios y Procesos\EVALUACION 1\Ejercicios\T1\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\Ejercicio1Bol4.genruntimeconfig.cache
+E:\SEGUNDO DAM\EVALUACION 1\Servicios y Procesos\EVALUACION 1\Ejercicios\T1\Ejercicio1Bol4\Ejercicio1Bol4\obj\Debug\net6.0\ref\Ejercicio1Bol4.dll
